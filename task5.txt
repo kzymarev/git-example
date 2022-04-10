@@ -1,2 +1,2 @@
-1. create new branch task5-1 from current branch
+1. create new branch task5-1 from current branch - done
 2. mark with + step #1
